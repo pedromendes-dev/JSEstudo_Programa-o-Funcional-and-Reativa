@@ -23,3 +23,4 @@ function somarPuro(a, b) {
 console.log(somarPuro(2, 3));  // 5
 console.log(somarPuro(2, 3));  // 5 (sempre!)
 console.log(somarPuro(2, 3));  // 5 (sempre!)
+ 
