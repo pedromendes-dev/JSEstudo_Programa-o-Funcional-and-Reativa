@@ -1,0 +1,18 @@
+O this em JavaScript é uma palavra-chave que referencia o contexto de execução atual. Sim, você pode pensar como "este" ou "esse" objeto.
+
+this = "este objeto aqui"
+Permite que métodos acessem propriedades e outros métodos da mesma instância
+Cada instância tem seu próprio this que aponta para ela mesma
+
+---
+
+Em JavaScript, o # antes do nome de um campo (como #subcribers) indica que é um campo privado de classe. Isso significa que:
+
+Privacidade real: Só pode ser acessado dentro da própria classe Mainlibrary, não de fora dela
+Sintaxe ES2022+: É uma feature moderna do JavaScript
+Não é acessível externamente: Nem mesmo instâncias da classe ou subclasses conseguem acessar diretamente
+
+---
+
+Callback é o conceito (passar função como argumento) 
+Arrow function é a sintaxe (=>)
